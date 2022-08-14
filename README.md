@@ -1,7 +1,7 @@
-# Gullivarrs Travels - Final Project
+# Oh What the F*ck Now - A Front-End React-Based Anxiety Relieving? App
 
 # Summary: 
-For this final project, we were asked to create an full funntioning app that helps in the real world,
+
 
 
 
