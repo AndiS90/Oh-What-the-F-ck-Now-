@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Andrea Strickland",
+    "email": "boredomsux09@gmail.com",
+    "password": "password01",
+    "villagers": ["Raymond", "Sheldon", "Olivia", "Meringue"]
+  },
+  {
+    "name": "Max Kanat-Alexander",
+    "email": "mkanatalexander@techfriends.dev",
+    "password": "password02",
+    "villagers": ["Java", "Perl", "Apache", "Python"]
+  },
+  {
+    "name": "Amiko",
+    "email": "amiko@techfriends.dev",
+    "password": "password03",
+    "villagers": ["NodeJS", "MySQL", "MongoDB", "React", "CSS-in-JS"]
+  },
+  {
+    "name": "Kent Beck",
+    "email": "kbeck@techfriends.dev",
+    "password": "password04",
+    "villagers": [
+      "Test-Driven Development",
+      "Extreme Programming",
+      "Software Design Patterns",
+      "JUnit"
+    ]
+  },
+  {
+    "name": "Edward V. Berard",
+    "email": "evberard@techfriends.dev",
+    "password": "password05",
+    "villagers": ["Object-Oriented Design"]
+  },
+  {
+    "name": "Alan Kay",
+    "email": "akay@techfriends.dev",
+    "password": "password06",
+    "villagers": [
+      "Graphical User Interface (GUI) Design",
+      "Jazz Guitar",
+      "Education"
+    ]
+  },
+  {
+    "name": "C.A.R. Hoare",
+    "email": "choare@techfriends.dev",
+    "password": "password07",
+    "villagers": ["Algorithms", "Quicksort", "Hoare Logic"]
+  },
+  {
+    "name": "David Thomas",
+    "email": "dthomas@techfriends.dev",
+    "password": "password08",
+    "villagers": ["Author", "Code Kata", "Ruby", "Pragmatic Programming"]
+  }
+]
